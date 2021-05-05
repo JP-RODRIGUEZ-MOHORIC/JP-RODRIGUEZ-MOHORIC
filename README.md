@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JP-RODRIGUEZ-MOHORIC
-- 👀 I’m interested in ...
+- 👋 Hi, I’m JUAN PABLO RODRIGUEZ MOHORIC
+- 👀 I’m interested in Web programming
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mohoricjp@hotmail.com
+- 📫 How to reach me mohoricjp@hotmail.com or jprodmoho@gmail.com
 
 <!---
 JP-RODRIGUEZ-MOHORIC/JP-RODRIGUEZ-MOHORIC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
