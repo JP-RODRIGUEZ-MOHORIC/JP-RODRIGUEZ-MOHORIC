@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JUAN PABLO RODRIGUEZ MOHORIC
 - 👀 I’m interested in Web programming
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohoricjp@hotmail.com or jprodmoho@gmail.com
 
